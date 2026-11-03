@@ -1,0 +1,5 @@
+Drop a real Dispute Summary Extract file here, or just run `behave` - the
+Background step auto-downloads the latest matching file from S3 into this
+folder. See the README for details.
+
+Nothing else in this folder is tracked in git (see ../.gitignore).

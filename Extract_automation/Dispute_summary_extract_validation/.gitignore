@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# Downloaded/extracted data files - business data, regenerated via S3 auto-download or -D file_path
+data/*
+!data/.gitkeep
+
+# Generated reports - regenerable build artifacts
+reports/*
+!reports/.gitkeep
+
+# Microsoft Office lock files
+~$*
