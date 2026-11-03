@@ -1,0 +1,3 @@
+Generated test reports (.docx) land here and are not tracked in git (see
+../.gitignore) - they're regenerable build artifacts tied to a specific
+test run.
